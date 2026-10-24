@@ -213,7 +213,7 @@ footer {
 }
 
 
-/* Fitur Dark Mode */
+/* Fitur untuk membuat jadi Dark Mode */
 body.darkmode {
     color:#e1cbde;
     background-color: #1b0b01;
@@ -306,7 +306,7 @@ body.darkmode .kartu {
 }
 
 
-/* responsivitas */
+/* agar navigasi bisa dibuka tutup di layar kecil */
 .menu-toggle {
     display: none;
 }
@@ -351,7 +351,7 @@ body.darkmode .kartu {
     }
 }
 
-/* pesan error */
+/* pesan error untuk form */
 .invalid {
     display: block;
     color: #dc2626;
